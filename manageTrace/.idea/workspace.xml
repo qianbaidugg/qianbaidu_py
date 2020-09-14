@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce89f1b4-3ce5-4f6a-8c0b-834afe19dec9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/manageTrace$Test__.coverage" NAME="Test:  Coverage Results" MODIFIED="1593739489345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/manageTrace$Test__manageTrace.coverage" NAME="Test: manageTrace Coverage Results" MODIFIED="1593682169493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/manageTrace$manage.coverage" NAME="manage Coverage Results" MODIFIED="1593746895918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" module-name="manageTrace" is-module-sdk="true">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+    <option name="myUseModuleSdk" value="true" />
+    <option name="myModuleName" value="manageTrace" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eNn5D0AiSBuMENM5tutkATQLPp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="manageTrace" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="manageTrace" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\主设备&amp;软件任务完成\manageTrace\manageTrace" />
+      <recent name="C:\vs_proj\learnPath\python_PaddlePaddle\manageTrace\manageTrace\test" />
+      <recent name="C:\vs_proj\learnPath\python_PaddlePaddle\manageTrace\manageTrace\test2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\vs_proj\learnPath\python_PaddlePaddle\manageTrace\manageTrace" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="Test: " type="DjangoTestsConfigurationType" temporary="true">
+      <module name="manageTrace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: manageTrace" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="manageTrace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="manageTrace" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HandleExcel" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="manageTrace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program Files\anaconda2\python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HandleExcel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="manageTrace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manageTrace" type="Python.DjangoServer" factoryName="Django server">
+      <module name="manageTrace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="manageTrace.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jflei\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://127.0.0.1:8000/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.HandleExcel" />
+      <item itemvalue="Python.manage" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce89f1b4-3ce5-4f6a-8c0b-834afe19dec9" name="Default Changelist" comment="" />
+      <created>1593670594761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593670594761</updated>
+      <workItem from="1593670597128" duration="8557000" />
+      <workItem from="1593679690727" duration="2027000" />
+      <workItem from="1593735915441" duration="1210000" />
+      <workItem from="1593737505140" duration="17924000" />
+      <workItem from="1593999234424" duration="649000" />
+      <workItem from="1594001309095" duration="9158000" />
+      <workItem from="1594082227959" duration="9392000" />
+      <workItem from="1594119351064" duration="10682000" />
+      <workItem from="1594168950152" duration="979000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="60578000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="318" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597572588151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="318" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1597572588151" />
+    <state x="424" y="124" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1596768477318" />
+    <state x="721" y="148" key="#manage" timestamp="1594198637312">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="721" y="148" key="#manage/0.0.2048.1112@0.0.2048.1112" timestamp="1594198637312" />
+    <state width="1726" height="466" key="DebuggerActiveHint" timestamp="1598254334617">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1726" height="466" key="DebuggerActiveHint/0.0.2048.1112@0.0.2048.1112" timestamp="1598254334617" />
+    <state x="815" y="257" key="FileChooserDialogImpl" timestamp="1595235920702">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="815" y="257" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1595235920702" />
+    <state width="1515" height="271" key="GridCell.Tab.0.bottom" timestamp="1598356211456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="271" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598356211456" />
+    <state width="2027" height="271" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1598328621237" />
+    <state width="1515" height="271" key="GridCell.Tab.0.center" timestamp="1598356211456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="271" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598356211456" />
+    <state width="2027" height="271" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1598328621237" />
+    <state width="1515" height="271" key="GridCell.Tab.0.left" timestamp="1598356211456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="271" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598356211456" />
+    <state width="2027" height="271" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1598328621237" />
+    <state width="1515" height="271" key="GridCell.Tab.0.right" timestamp="1598356211456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="271" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598356211456" />
+    <state width="2027" height="271" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1598328621237" />
+    <state width="1515" height="271" key="GridCell.Tab.1.bottom" timestamp="1598356211457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="271" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598356211457" />
+    <state width="2027" height="271" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1598261838834" />
+    <state width="1515" height="271" key="GridCell.Tab.1.center" timestamp="1598356211456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="271" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1598356211456" />
+    <state width="2027" height="271" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1598261838834" />
+    <state width="1515" height="271" key="GridCell.Tab.1.left" timestamp="1598356211456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="271" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1598356211456" />
+    <state width="2027" height="271" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1598261838833" />
+    <state width="1515" height="271" key="GridCell.Tab.1.right" timestamp="1598356211456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="271" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1598356211456" />
+    <state width="2027" height="271" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1598261838834" />
+    <state x="545" y="166" key="SettingsEditor" timestamp="1597911383883">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="494" y="114" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597571973955" />
+    <state x="545" y="166" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1597911383883" />
+    <state width="1034" height="566" key="XDebugger.FullValuePopup" timestamp="1598261766418">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="748" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1597057189556" />
+    <state width="1034" height="566" key="XDebugger.FullValuePopup/0.0.2048.1112@0.0.2048.1112" timestamp="1598261766418" />
+    <state x="581" y="285" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1595314222601">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="581" y="285" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2048.1112@0.0.2048.1112" timestamp="1595314222601" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
